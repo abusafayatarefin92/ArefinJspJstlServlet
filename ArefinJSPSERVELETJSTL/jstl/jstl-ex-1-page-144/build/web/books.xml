@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<books>
+<book>
+    <title>Professional JSP</title>
+    <author>Brown et. al</author>
+    <isbn>1-59059-519-0</isbn>
+    <published>September 2005</published>
+    <publisher>Apress</publisher>
+    <url>www.apress.com/book/bookDisplay.html?bID=464</url>
+</book>
+<book>
+    <title>Macbeth</title>
+    <author>Brown et. al</author>
+    <isbn>1123456789</isbn>
+    <published>A long time ago</published>
+    <publisher>Bloggs Publisher</publisher>
+    <url>http://booksrus.couk/titles/1123456789.html</url>
+</book>
+<book>
+    <title>Fly Fishing</title>
+    <author>JR Hartley</author>
+    <isbn>987654321</isbn>
+    <published>May 1947</published>
+    <publisher>ABC Printers Press</publisher>
+    <url>http://books.com/books.jsp?id=9876654321</url>
+</book>
+</books>

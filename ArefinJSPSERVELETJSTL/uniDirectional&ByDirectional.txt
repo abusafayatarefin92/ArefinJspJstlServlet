@@ -1,0 +1,2 @@
+single relation uniDirectional relationship
+both relation biDirectional relationship.
